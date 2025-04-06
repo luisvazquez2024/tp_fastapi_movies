@@ -1,0 +1,1 @@
+from app.schemas.movieSchema import Movie
